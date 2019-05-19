@@ -1,0 +1,22 @@
+5
+20
+add test
+add test
+find test
+del test
+find test
+find Test
+add Test
+find Test
+add world
+add HellO
+check 4
+find World
+find world
+del world
+check 4
+del HellO
+add luck
+add GooD
+check 2
+del good
